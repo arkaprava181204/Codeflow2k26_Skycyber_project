@@ -10,7 +10,7 @@ import Footer from './components/Footer.jsx'
 import MarketplacePage from './Pages/services.jsx'
 import Dashboard from './Profile/Dashboard'
 import Business from './Pages/business.jsx'
-import AiChatPopup from './Pages/AiChatPopUp.jsx'
+import AiChatPopup from './Pages/AiChatPopup.jsx'
 
 function Layout() {
 
